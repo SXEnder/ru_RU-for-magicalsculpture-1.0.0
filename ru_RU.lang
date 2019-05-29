@@ -1,0 +1,169 @@
+# Creative Tab
+itemGroup.magicalsculpture=Magical Sculpture
+
+# Blocks
+tile.magicalsculpture:magicalsculpture.base.name=Скульптурное основание
+tile.magicalsculpture:magicalsculpture.base.comment=Поставьте Скульптурные основания 2x2x1, а затем 2x2x4 Скульптурных камней на них. Как только всё будет готово, щёлкнете стамеской, чтобы создать магическую скульптуру!
+tile.magicalsculpture:magicalsculpture.stone.name=Скульптурный камень
+tile.magicalsculpture:magicalsculpture.stone.comment=Поставьте Скульптурные основания 2x2x1, а затем 2x2x4 Скульптурных камней на них. Как только всё будет готово, щёлкнете стамеской, чтобы создать магическую скульптуру!
+
+# Gui
+gui.magicalsculpture:relic=Слоты реликвии
+gui.magicalsculpture:amplifier=Слоты усилителя
+
+# Items
+item.magicalsculpture:userguide.name=Руководство по магическим скульптурам
+item.magicalsculpture:chisel.name=Скульптурная стамеска
+item.magicalsculpture:reverser.name=Порошок реинкарнации
+item.magicalsculpture:reverser.comment=Превращает ваши нежелательные реликвии в изумруды
+
+item.magicalsculpture:amplifier.0.name=Жемчужный усилитель края
+item.magicalsculpture:amplifier.1.name=Первичный усилитель
+item.magicalsculpture:amplifier.2.name=Двухступенчатый усилитель
+item.magicalsculpture:amplifier.3.name=Трехступенчатый усилитель
+
+item.magicalsculpture:relic.comment=[Реликвия] Поместите это в скульптуру, чтобы засвидетельствовать ее силу!
+item.magicalsculpture:relic.0.name=Золотое сердце
+item.magicalsculpture:relic.0.comment=Классическое золотое яблоко, классическое восстановление жизни.
+item.magicalsculpture:relic.1.name=Укрытия из стали
+item.magicalsculpture:relic.1.comment=К сожалению, он слишком мал для использования в качестве щита.
+item.magicalsculpture:relic.2.name=Ритуальный кинжал
+item.magicalsculpture:relic.2.comment=К сожалению, он слишком мал для использования в качестве оружия.
+item.magicalsculpture:relic.3.name=Перо Края
+item.magicalsculpture:relic.3.comment=Легче, чем перья.
+item.magicalsculpture:relic.4.name=Симбиотический соединенный глаз
+item.magicalsculpture:relic.4.comment=Я хотел бы носить его на голове. О, это устройство называется ночным видением.
+item.magicalsculpture:relic.5.name=Шестицветик
+item.magicalsculpture:relic.5.comment=QuQ
+item.magicalsculpture:relic.6.name=Псилоцибиновые грибы
+item.magicalsculpture:relic.6.comment=Странный спрос.
+item.magicalsculpture:relic.7.name=Морковка Края
+item.magicalsculpture:relic.7.comment=Жаль, что ты не можешь есть это.
+item.magicalsculpture:relic.8.name=Сломанный алмаз
+item.magicalsculpture:relic.8.comment=Чувство разбитого сердца.
+item.magicalsculpture:relic.9.name=Сломанный ритуальный кинжал
+item.magicalsculpture:relic.9.comment=Не говоря уже о сражении с этим сейчас.
+item.magicalsculpture:relic.10.name=Тут сокровище
+item.magicalsculpture:relic.10.comment=Если вы покопаете еще несколько, вы увидите алмазы. Если вы поткопаете еще немного, вы увидите алмазы.
+item.magicalsculpture:relic.11.name=Испорченный смешанный стейк
+item.magicalsculpture:relic.11.comment=Это выглядит отвратительно.
+item.magicalsculpture:relic.12.name=Теневая мантия
+item.magicalsculpture:relic.12.comment=Единственная проблема в том, что мы не можем найти, где это было положено.
+item.magicalsculpture:relic.13.name=Флюоритовое ожерелье
+item.magicalsculpture:relic.13.comment=Станьте маяком в темноте - или лампочкой.
+item.magicalsculpture:relic.14.name=Обещание Владыки Пламени
+item.magicalsculpture:relic.14.comment=Убежище от лавы.
+item.magicalsculpture:relic.15.name=Обещание Владыки Глубоководья
+item.magicalsculpture:relic.15.comment=Убежище от моря.
+item.magicalsculpture:relic.16.name=Обещание Стихийного Лорда
+item.magicalsculpture:relic.16.comment=Достичь консенсуса.
+item.magicalsculpture:relic.17.name=Сердце мертвых
+item.magicalsculpture:relic.17.comment=Желание умершего выжить.
+item.magicalsculpture:relic.18.name=Мшистый щит
+item.magicalsculpture:relic.18.comment=Это скользко, трудно контролировать.
+item.magicalsculpture:relic.19.name=Сломанный клинок
+item.magicalsculpture:relic.19.comment=Даже если это не сломалось, мы не смогли найти правильную ручку.
+item.magicalsculpture:relic.20.name=Вкусное вино
+item.magicalsculpture:relic.20.comment=Баночка старого вина выдерживается, а банка вина ароматная, когда ее открывают.
+item.magicalsculpture:relic.21.name=Проволочные ежи
+item.magicalsculpture:relic.21.comment=Значит, сила, которую он дает, исходит от боли в твоих ногах?
+item.magicalsculpture:relic.22.name=Ещё больше проволочных ежей
+item.magicalsculpture:relic.22.comment=Больше боли, больше силы.
+item.magicalsculpture:relic.23.name=Странные зародыши
+item.magicalsculpture:relic.23.comment=Оно живое!
+item.magicalsculpture:relic.24.name=Симбиотическое сердце
+item.magicalsculpture:relic.24.comment=«Создавая лучшее будущее вместе» - об этом вы будете думать только тогда.
+item.magicalsculpture:relic.25.name=Подозрительный стейк
+item.magicalsculpture:relic.25.comment=100% "зеленая еда".
+item.magicalsculpture:relic.26.name=Алмазный компас
+item.magicalsculpture:relic.26.comment=Ищете алмазы с алмазами - серьезно?
+item.magicalsculpture:relic.27.name=Посланник мира
+item.magicalsculpture:relic.27.comment=Те, кто не обижают, не должны обижаться.
+item.magicalsculpture:relic.28.name=Преобразованное убежище
+item.magicalsculpture:relic.28.comment=Взять на себя совершенно новый аспект.
+item.magicalsculpture:relic.29.name=Нестабильная реальность
+item.magicalsculpture:relic.29.comment=Жемчужина, полная мозаики, развевающаяся в самолете и настоящем космосе.
+item.magicalsculpture:relic.30.name=Окно Эндера
+item.magicalsculpture:relic.30.comment=Загадочные вещи
+item.magicalsculpture:relic.31.name=Жемчуг Масейкера
+item.magicalsculpture:relic.31.comment=Не должно быть в этом измерении.
+item.magicalsculpture:relic.32.name=Руна Kra
+item.magicalsculpture:relic.32.comment=Древний рунический камень, кажется, является частью статуи.
+item.magicalsculpture:relic.33.name=Руна Gar
+item.magicalsculpture:relic.33.comment=Древний рунический камень, кажется, является частью статуи.
+item.magicalsculpture:relic.34.name=Руна Jre
+item.magicalsculpture:relic.34.comment=Древний рунический камень, кажется, является частью статуи.
+item.magicalsculpture:relic.35.name=Леопардовая кошачья коробка
+item.magicalsculpture:relic.35.comment=Прекрасная маленькая коробочка, которая кажется механическим устройством, уверена, что в ней нет кота.
+item.magicalsculpture:relic.36.name=TNT мина
+item.magicalsculpture:relic.36.comment=К сожалению, это сломано. На нем написано "Angliel". Почему кто-то написал свое имя на бомбе?
+item.magicalsculpture:relic.37.name=Лесной апельсин
+item.magicalsculpture:relic.37.comment=Это священная реликвия? Точно не для еды?
+item.magicalsculpture:relic.38.name=Легкая броня MK336
+item.magicalsculpture:relic.38.comment=Будь монстром или правоохранитем в растерянности.
+item.magicalsculpture:relic.39.name=Рубиновая душераздирающая палочка
+item.magicalsculpture:relic.39.comment=От волшебника, временная шкала вызвала его волнение.
+item.magicalsculpture:relic.40.name=Остановка мертвого времени
+item.magicalsculpture:relic.40.comment=Как карманные часы кролика... Нет, это просто копия.
+item.magicalsculpture:relic.41.name=Светящиеся монеты
+item.magicalsculpture:relic.41.comment=Славный Господь чеканил монеты сам.
+item.magicalsculpture:relic.42.name=Вегетарианская рыба
+item.magicalsculpture:relic.42.comment=Вегетарианские кошки предпочитают рыбу из травы.
+item.magicalsculpture:relic.43.name=Неудачливая рыба
+item.magicalsculpture:relic.43.comment=Удача E (Очень неудачный).
+item.magicalsculpture:relic.44.name=Дайвер рыба
+item.magicalsculpture:relic.44.comment=Пардон? Что это?
+item.magicalsculpture:relic.45.name=Благословение силы
+item.magicalsculpture:relic.45.comment=Книга чар с реки, к сожалению, слова на страницах книги не могут быть распознаны, поэтому ее нельзя использовать для чар.
+item.magicalsculpture:relic.46.name=Благословение защиты
+item.magicalsculpture:relic.46.comment=Книга чар с реки, к сожалению, слова на страницах книги не могут быть распознаны, поэтому ее нельзя использовать для чар.
+item.magicalsculpture:relic.47.name=Благословение проворности
+item.magicalsculpture:relic.47.comment=Книга чар с реки, к сожалению, слова на страницах книги не могут быть распознаны, поэтому ее нельзя использовать для чар.
+item.magicalsculpture:relic.48.name=Благословение аурума
+item.magicalsculpture:relic.48.comment=Книга чар с реки, к сожалению, слова на страницах книги не могут быть распознаны, поэтому ее нельзя использовать для чар.
+item.magicalsculpture:relic.49.name=Древняя мудрость
+item.magicalsculpture:relic.49.comment=Знание - сила. Сила - сопротивление, скорость движения и поглощение травм.
+
+
+# User Guide
+guide.magicalsculpture:content.title=Содержание
+guide.magicalsculpture:content.intro=Добро пожаловать & Введение
+guide.magicalsculpture:content.structure=Постройка статуй
+guide.magicalsculpture:content.relics=Получение реликвий
+guide.magicalsculpture:content.amplifier=Усилители мощности
+guide.magicalsculpture:content.notes=Эпилог
+
+guide.magicalsculpture:intro.text1=Похоже, вы только что сделали скульптурную стамеску. Поздравляем, теперь вы можете начать строить статуи! Реликвии внутри статуи добавляют эффект BUFFа ближайшим игрокам. Используйте алмазы, камни и сундуки для изготовления статуй и камня.
+guide.magicalsculpture:intro.text2=Реликвии могут быть получены путем крафта, изучения подземелий или убийства монстров. Следующие главы объяснят концепцию в деталях.
+
+guide.magicalsculpture:structure.text1=Тело: 2x2x4 (всего: 16) из скульптурного камня.
+guide.magicalsculpture:structure.text2=База: 2x2x1 (всего: 4) из скульптурной базы.
+guide.magicalsculpture:structure.text3=Скульптура представляет собой многоблочную конструкцию. Поместите блоки, как показано на рисунке, затем щелкните правой кнопкой мыши по скульптуре стамеской.
+guide.magicalsculpture:structure.text4=Статуя будет давать BUFF для игроков в определенном диапазоне. Тип BUFFа зависит от реликвий, помещенных в него.
+guide.magicalsculpture:structure.text5=Щелкните правой кнопкой мыши на теле статуи и поместите реликвии, чтобы включить эффект BUFFа.
+guide.magicalsculpture:structure.text6=Щелкните правой кнопкой мыши на основании статуи и вставьте усилители, чтобы увеличить радиус действия.
+
+guide.magicalsculpture:relics.text1=Исследуйте мир, синтезируйте вручную или ловите рыбу у реки, чтобы собрать больше реликвий!
+guide.magicalsculpture:relics.text2=Вот несколько видов реликвий.
+guide.magicalsculpture:relics.text3=ОгнестойкостьⅠ
+guide.magicalsculpture:relics.text4=От убийства ифритов (с шансом).
+guide.magicalsculpture:relics.text5=Ночное видениеⅠ
+guide.magicalsculpture:relics.text6=Делается из глаза паука и жемчужины эндера.
+guide.magicalsculpture:relics.text7=ПоглощениеⅠ
+guide.magicalsculpture:relics.text8=От рыбалки (с шансом)
+guide.magicalsculpture:relics.text9=СопротивлениеⅡ и Горная усталостьⅡ
+guide.magicalsculpture:relics.text10=Находятся в данжах
+guide.magicalsculpture:relics.text11=Кроме того, есть еще много реликвий, которые еще предстоит обнаружить. По слухам, существует не менее 50 видов реликвий.
+
+guide.magicalsculpture:amplifier.text1=Обеспокоенность по поводу диапазона BUFF? Создавая и устанавливая усилители, диапазон можно расширить!
+guide.magicalsculpture:amplifier.text2=Увеличивает радиус на 4 блока
+guide.magicalsculpture:amplifier.text3=Увеличивает радиус на 8 блоков
+guide.magicalsculpture:amplifier.text4=Увеличивает радиус на 12 блоков
+guide.magicalsculpture:amplifier.text5=Увеличивает радиус на 16 блоков
+
+guide.magicalsculpture:notes.text1=Волшебная Скульптура - это мод, созданный Юрием Котом и Rikka0w0. Это заняло всего 48 часов.
+guide.magicalsculpture:notes.text2=Поскольку у нас мало свободного времени, некоторые функции не были реализованы, поэтому в последнее время «Magic Sculpture» не собирается добавлять новые функции, однако мы продолжим обслуживание.
+guide.magicalsculpture:notes.text3=В будущем будет добавлено больше функций: новые BUFFы, больше скульптуры, больше волшебных устройств... Конечно, это будет в «Magic Sculpture 2». - Я имею в виду, если это возможно.
+guide.magicalsculpture:notes.text4=Еще раз спасибо Rikka0w0 за его усилия по программированию в его свободное время.
+guide.magicalsculpture:notes.text5=Спасибо за игру!
+guide.magicalsculpture:notes.text6=——YurisCat
